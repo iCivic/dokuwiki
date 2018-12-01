@@ -12,6 +12,9 @@
 - [dokuwiki学习（十）——移动媒体文件](https://blog.csdn.net/wszll_Alex/article/details/80252294)
 - [dokuwiki学习（十一）——增加新用户](https://blog.csdn.net/wszll_Alex/article/details/80252311)
 - [dokuwiki学习（十二）——用户访问权限设置](https://blog.csdn.net/wszll_Alex/article/details/80253803)
+
 - [dokuwiki登录设置](https://blog.csdn.net/Ping0817/article/details/53692105)
 - [dokuwiki出现PHP function utf8_encode is not available问题](https://blog.csdn.net/wszll_Alex/article/details/80250249)
 - [Dokuwiki布署小记](https://www.cnblogs.com/ljzforever/p/6036742.html)
+- [Dokuwiki插件与主题推荐](https://www.cnblogs.com/Crysaty/p/6160347.html)
+- [dokuwiki插件的常用配置及其他Tips](https://blog.csdn.net/leekwen/article/details/54907445)
